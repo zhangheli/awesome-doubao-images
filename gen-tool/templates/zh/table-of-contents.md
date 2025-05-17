@@ -1,6 +1,6 @@
 ## 目录
 
-- [🎨 GPT‑4o介绍](#gpt4o-intro)
+- [🎨 Doubao介绍](#doubao-intro)
 - [📖 案例目录](#cases-toc)
 - [🛠️ 工具介绍](#tools-intro)
 - [💡 提示词技巧](#prompting-tips)
