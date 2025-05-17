@@ -1,6 +1,6 @@
-## 🎨 What is GPT‑4o
+## 🎨 What is Doubao
 
-GPT‑4o is a multimodal model that not only turns text prompts into high‑quality images but also offers image‑to‑image editing—enabling targeted retouching, style transfer, and multi‑image blending.
+Doubao is a multimodal model that not only turns text prompts into high‑quality images but also offers image‑to‑image editing—enabling targeted retouching, style transfer, and multi‑image blending.
 
 - 🧠 Multimodal comprehension: Simultaneously parses text and images to capture creative intent with precision
 - ✍️ Accurate rendering: Handles complex prompts and rapidly produces high‑quality images

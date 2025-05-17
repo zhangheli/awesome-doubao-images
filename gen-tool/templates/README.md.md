@@ -8,8 +8,8 @@
 
 ---
 
-<a id="gpt4o-intro"></a>
-{{{gpt4o-intro}}}
+<a id="doubao-intro"></a>
+{{{doubao-intro}}}
 
 ---
 

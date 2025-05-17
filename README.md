@@ -7,16 +7,11 @@
   <img src="https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=social" alt="GitHub stars">
 </a>
 
-🎉 欢迎来到 GPT‑4o 图片精选！
+🎉 欢迎来到 Doubao 图片精选！
 
-这是一个精选的 Doubao 与 gpt-image-1 生成图像与提示词合集。借助 ChatGPT 和 Sora，全面展示 OpenAI 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
+这是一个精选的 豆包 与 即梦 生成图像与提示词合集。借助 豆包 和 即梦 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 
-案例主要来源于 Twitter/X 🐦 和 Sora 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
-
-<strong>另外，来自OpenAI官方发布的 gpt‑image‑1 模型的数十个精彩案例，由本项目精心整理和翻译，查看请戳👇</strong>
-
-- 中文版：[OpenAI gpt-image-1: 40 个精选图像案例及提示词](./gpt-image-1/gpt-image-1.md)
-- 英文版：[OpenAI gpt-image-1: 40 Curated Prompt & Image Examples](./gpt-image-1/gpt-image-1-en.md)
+案例主要来源于 Twitter/X 🐦 和 Jimeng 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
 
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
@@ -27,7 +22,7 @@
 <a id="table-of-contents"></a>
 ## 目录
 
-- [🎨 GPT‑4o介绍](#gpt4o-intro)
+- [🎨 doubao 介绍](#doubao-intro)
 - [📖 案例目录](#cases-toc)
 - [🛠️ 工具介绍](#tools-intro)
 - [💡 提示词技巧](#prompting-tips)
@@ -38,10 +33,10 @@
 
 ---
 
-<a id="gpt4o-intro"></a>
-## 🎨 GPT‑4o介绍
+<a id="doubao-intro"></a>
+## 🎨 Doubao 介绍
 
-GPT‑4o 是 OpenAI 最新的多模态大模型，既能以文本提示一键生成高质量图片，也支持图生图编辑，涵盖局部修改、风格转换及多图融合等高级操作。
+Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一键生成高质量图片，也支持图生图编辑，涵盖局部修改、风格转换及多图融合等高级操作。
 
 - 🧠 多模态：同时解析文本、图像，精准把握创作意图
 - ✍️ 精准出图：支持复杂提示词，快速生成高质量图像

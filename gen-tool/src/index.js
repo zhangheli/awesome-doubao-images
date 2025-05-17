@@ -63,7 +63,7 @@ const data = {
   })),
   'header': fs.readFileSync(path.join(__dirname, '../templates', lang, 'header.md'), 'utf8'),
   'table-of-contents': fs.readFileSync(path.join(__dirname, '../templates', lang, 'table-of-contents.md'), 'utf8'),
-  'gpt4o-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'gpt4o-intro.md'), 'utf8'),
+  'doubao-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'doubao-intro.md'), 'utf8'),
   'cases-contents': cases_contents,
   'tools-intro': fs.readFileSync(path.join(__dirname, '../templates', lang, 'tools-intro.md'), 'utf8'),
   'prompting-tips': fs.readFileSync(path.join(__dirname, '../templates', lang, 'prompting-tips.md'), 'utf8'),
