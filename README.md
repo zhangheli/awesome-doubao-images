@@ -3,16 +3,15 @@
 
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
 [![简体中文](https://img.shields.io/badge/简体中文-点击查看-orange)](README.md)
-<a href="https://github.com/jamez-bondos/awesome-gpt4o-images/stargazers">
-  <img src="https://img.shields.io/github/stars/jamez-bondos/awesome-gpt4o-images?style=social" alt="GitHub stars">
+<a href="https://github.com/zhangheli/awesome-doubao-images/stargazers">
+  <img src="https://img.shields.io/github/stars/zhangheli/awesome-doubao-images?style=social" alt="GitHub stars">
 </a>
 
 🎉 欢迎来到 Doubao 图片精选！
 
-这是一个精选的 豆包 与 即梦 生成图像与提示词合集。借助 豆包 和 即梦 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
+这是一个精选的 Doubao 与 jimeng 生成图像与提示词合集。借助 Doubao 和 Jimeng，全面展示 Bytedance 在 AI 图像生成方面的前沿能力，并不断探索创意表达的新可能。
 
 案例主要来源于 Twitter/X 🐦 和 Jimeng 社区 🎬，希望这些案例能为您带来启发 💡，为你的灵感加速 🚀。
-
 
 <strong>→ 喜欢就点 Star 支持！ / Smash that ⭐ if you like it!</strong>
 
@@ -22,7 +21,7 @@
 <a id="table-of-contents"></a>
 ## 目录
 
-- [🎨 doubao 介绍](#doubao-intro)
+- [🎨 Doubao介绍](#doubao-intro)
 - [📖 案例目录](#cases-toc)
 - [🛠️ 工具介绍](#tools-intro)
 - [💡 提示词技巧](#prompting-tips)
@@ -36,7 +35,7 @@
 <a id="doubao-intro"></a>
 ## 🎨 Doubao 介绍
 
-Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一键生成高质量图片，也支持图生图编辑，涵盖局部修改、风格转换及多图融合等高级操作。
+DOubao 是 ByteDance 最新的多模态大模型，既能以文本提示一键生成高质量图片，也支持图生图编辑，涵盖局部修改、风格转换及多图融合等高级操作。
 
 - 🧠 多模态：同时解析文本、图像，精准把握创作意图
 - ✍️ 精准出图：支持复杂提示词，快速生成高质量图像
@@ -58,10 +57,6 @@ Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一�
 <a id="cases"></a>
 ## 🧩 案例
 
----
-
-[⬆️ 返回案例目录](#cases-toc)
-
 <a id="cases-1"></a>
 ### 案例 1：人像摄影，日常快照风格 (by [@remixdesigne](https://x.com/remixdesigne))
 
@@ -76,7 +71,7 @@ Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一�
 ```
 
 
-**需上传参考图片：** 人像摄影，日常快照风格。
+**需上传参考图片：** 人像摄影，日常快照风格
 
 
 ---
@@ -92,9 +87,10 @@ Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一�
 
 以下是可以使用 Doubao 模型生成图片的应用：
 
-- **💬 [Doubao](https://doubao.com)：** Doubao官方出品，可使用 Doubao 生成高质量图片，支持多风格、多细节控制，适合创意表达与内容创作。
+- **💬 [豆包](https://doubao.com)：** 豆包官方出品，可使用 Doubao 生成高质量图片，支持多风格、多细节控制，适合创意表达与内容创作。
 
-- **🎬 [Jiment](https://jimeng.jianying.com)：** Doubao 官方出品，可通过 Doubao 生成逼真图像，支持图文结合、场景重建，适用于影视、动画等视觉创意场景。
+- **🎬 [Sora](https://https://jimeng.jianying.com)：** OpenAI官方出品，可通过 Doubao 生成逼真图像，支持图文结合、场景重建，适用于影视、动画等视觉创意场景。
+
 
 
 <a id="prompting-tips"></a>
@@ -123,7 +119,6 @@ Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一�
 
 特别感谢以下用户分享了他们鼓舞人心的作品 ✨：
 
-*   [jamez-bondos](https://github.com/jamez-bondos/awesome-gpt4o-images)
 *   [-Zho- (@ZHO_ZHO_ZHO)](https://x.com/ZHO_ZHO_ZHO)
 *   [Gizem Akdag (@gizakdag)](https://x.com/gizakdag)
 *   [宝玉 (@dotey)](https://x.com/dotey)
@@ -159,7 +154,7 @@ Doubao 是 字节跳动 最新的多模态大模型，既能以文本提示一�
 <a id="star-history"></a>
 ## 🌟 Star历史
 
-[![Star History Chart](https://api.star-history.com/svg?repos=jamez-bondos/awesome-gpt4o-images&type=Date)](https://www.star-history.com/#jamez-bondos/awesome-gpt4o-images&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhangheli/awesome-doubao-images&type=Date)](https://www.star-history.com/#zhangheli/awesome-doubao-images&Date)
 
 [⬆️ 返回顶部](#readme-top)
 
